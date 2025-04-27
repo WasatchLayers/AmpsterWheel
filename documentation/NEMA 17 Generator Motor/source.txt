@@ -1,0 +1,29 @@
+https://www.amazon.com/Usongshine-Stepper-Bipolar-Extruder-17HS4023/dp/B07TY4BFF2/ref=sr_1_21?sr=8-21&xpid=RyQBsvrYz-CNf
+
+High Torque: Adopting high quality motor steel material,with high torque 13Ncm(18.4oz.in), low self-inductance reactance, responsive and can avoid system error.
+Low Resistance: Usongshine stepper motor can get a lower resistance value compared to motors of the same thickness and torque. This considerably increases the thermal conductivity of the motor. This effectively reduces the increase in temperature.
+Dimensions: 42x42x23mm/1.65""x1.65""x0.9"" ,1.8 deg. step angle(200 steps/rev),Rated current 1.0 A & resistance 3.5ohms.
+
+Size:42*42*23mm
+
+Phase: 2 Phase
+
+Current: 1 A/Phase
+
+Phase Resistance: 3.5ohms
+
+Resistance: 4.0 ± 10%Ω/Phase
+
+Inductance: 3.2 ± 20% mH/Phase
+
+Holding Togque: 13 N.cm(18.4oz.in)
+
+Insulation Class: B
+
+Step Angle: 1.8±5% /STEP
+
+Connection: Black(A+), Green(A-), Red(B+), Blue(B-)
+
+
+
+this motor was chosen for its low resistance, other motors may do better for larger rodents.

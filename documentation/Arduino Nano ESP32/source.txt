@@ -1,0 +1,3 @@
+https://www.amazon.com/dp/B0C947BHK5
+
+manual: https://docs.arduino.cc/resources/datasheets/ABX00083-datasheet.pdf

@@ -1,0 +1,24 @@
+https://www.amazon.com/dp/B089JYBF25
+
+Mini DC-DC step up voltage regulator with DC 2-24V input and 5V-28V output,just connected with USB power adapter then you can get 9V 12V 18V 24V voltge.
+Equipped with MT3608 voltage booster chip with high conversion efficiency up to 93%.
+Widely used for storage battery, power transformers, DIY adjustable regulated power supply, industrial equipment, 5V, 9V, 12V, 28V output, etc.
+MT3608 includes under-voltage lockout, current limiting, and thermal overload protection to prevent damage in the event of an output overload.
+Note: Before the first use, the module is not powered and not connected to the load, the blue potentiometer copper head a word mouth adjustment cap, aligned with the direction of the chest, counterclockwise rotation of the potentiometer to the end of the "ta" sound, and then clockwise rotation of the potentiometer more than 30 turns, and finally connected to the power supply, using a multimeter to monitor the module's output voltage to achieve the desired voltage
+
+
+
+Feature:
+Input voltage: 2 V to 24 V
+Output Voltage: DC 5V-28V
+Maximum output current: 2A (regular 1.2A or less, 1A or more to strengthen the heat dissipation)
+Efficiency: 93%
+(Minimum) (input-output) difference voltage when input is at (2 V and 50% of max-input-V), loading at (50% and 100 percent rated current)
+
+Method of use:
+The module of the IN+ and - after 2~24v, adjusting the potentiometer can adjust output voltage, output voltage is greater than the input voltage
+
+Matters needing attention:
+The input voltage should not exceed the maximum input voltage
+The peak current output current no more than TV university
+When the module output voltage can not be adjusted, the output voltage is always equal to the input voltage.Please adjust the potentiometer counterclockwise 20 laps or more (Let potentiometer against your chest, counterclockwise turn boost)

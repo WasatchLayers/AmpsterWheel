@@ -1,4 +1,0 @@
-pyserial>=3.5
-adafruit-circuitpython-neopixel>=6.3.9
-adafruit-circuitpython-ssd1306>=2.12.4
-adafruit-circuitpython-motor>=3.4.12
