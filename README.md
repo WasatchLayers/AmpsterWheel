@@ -2,6 +2,12 @@
 
 This project implements a self-sustaining, interactive rodent wheel system that harvests energy from rodent activity while providing feedback and rewards.
 
+## Build Video
+https://www.youtube.com/watch?v=JMp5FNHOx8Y
+
+## 3D Printable Files
+https://www.printables.com/model/1278881-ampster-wheel
+
 ## Features
 - Energy harvesting from wheel motion via stepper motor as a generator
 - Real-time LED feedback showing exercise progress
