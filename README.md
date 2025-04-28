@@ -8,7 +8,7 @@ This project implements a self-sustaining, interactive rodent wheel system that 
 - Automated treat dispensing system
 - Activity monitoring via time-of-flight sensor
 - OLED display for stats
-- Power-efficient design with manual LED control
+- Power-efficient design with auto off feature for LEDs and screen
 
 ## Hardware Requirements
 - Arduino Nano ESP32
