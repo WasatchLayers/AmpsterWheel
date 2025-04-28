@@ -32,13 +32,11 @@ This project implements a self-sustaining, interactive rodent wheel system that 
 - Clear Filament
 - 8mm x 100mm linear shaft
 - 8mm flange coupling connector
-- M3 bolts
 - M2x4 screws
 - M2x8 screws
 - M3x4 screws
 - M3x8 screws
 - M3x10 screws
-- M2x8 screws
 - M3x20 screws
 - #49 o'ring
 
