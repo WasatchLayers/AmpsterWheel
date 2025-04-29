@@ -65,10 +65,7 @@ https://www.printables.com/model/1278881-ampster-wheel
    - Install the ESP32 board package and all required libraries listed above via the Library Manager.
 
 2. **Connect Hardware Components:**
-   - Attach the LED strip data line to pin D8 (GPIO17) on the Arduino, using a 330Ω resistor.
-   - Connect the FS90R servo motor signal wire to D18 (GPIO02 or A1).
-   - Attach the OLED display to the I2C pins (D21 for SDA and D22 for SCL) with a 4.7kΩ pull-up resistor.
-   - Connect the push button to pin D12 (GPIO47) on the Arduino.
+   - Read the Wiring_Readme.txt in the documentation folder!
 
 3. **Upload the Arduino Firmware:**
    - Open the Arduino IDE.
