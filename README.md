@@ -86,3 +86,4 @@ https://www.printables.com/model/1278881-ampster-wheel
 - Ensure all connections are secure and insulated to prevent short circuits.
 - Double-check polarity for all power connections to avoid damage.
 - Use appropriate resistor values for any additional components as needed.
+- Links given in the documentation are NOT affiliate links.
